@@ -272,3 +272,8 @@ And update the rgb function in the .red CSS rule so that the red value is at the
 Step 44
 Next, change the class two to green in the second marker div, and the class three to blue in the third marker div.
 
+
+Step 45
+Update the CSS class selector .two so it targets the new green class. 
+And update the .three class selector so it targets the new blue class.
+
