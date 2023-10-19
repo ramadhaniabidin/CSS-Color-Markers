@@ -49,3 +49,9 @@ p {
 }
 Create a new CSS rule that targets the h1 element, and set its text-align property to center.
 
+
+Step 9
+Now you'll add some elements that you'll eventually style into color markers.
+First, within the body element, add a div element and set its class attribute to container. 
+Make sure the div element is below the h1 element.
+
