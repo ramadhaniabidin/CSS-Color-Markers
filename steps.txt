@@ -252,3 +252,7 @@ There are several other important color combinations outside of complementary co
 For now, use the rgb function in the .two CSS rule to set the background-color to black.
 
 
+Step 40
+And in the h1 CSS rule, remove the background-color property and value to go back to the default white color.
+
+
