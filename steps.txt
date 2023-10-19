@@ -105,6 +105,9 @@ If you add multiple classes to an HTML element, the styles of the first classes 
 To begin, add the class one to the first marker div element.
 
 
+Step 17
+Next, remove the background-color property and its value from the .marker CSS rule.
+
 
 
 
