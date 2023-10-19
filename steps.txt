@@ -240,4 +240,9 @@ and use its complementary color as an accent to bring attention to certain conte
 First, in the h1 rule, use the rgb function to set its background-color to cyan.
 
 
+Step 38
+Next, in the .one CSS rule, use the rgb function to set the background-color to black. 
+And in the .two CSS rule, use the rgb function to set the background-color to red.
+
+
 
