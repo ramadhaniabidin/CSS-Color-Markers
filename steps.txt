@@ -199,6 +199,10 @@ To create the tertiary color spring green, combine cyan with green.
 Update the rgb function in the .two CSS rule so that green is at the max value, and set blue to 127.
 
 
+Step 33
+And to create the tertiary color violet, combine magenta with blue. 
+Update the rgb function in the .three CSS rule so that blue is at the max value, and set red to 127.
+
 
 
 
