@@ -372,6 +372,17 @@ In the linear-gradient function, set gradientDirection to 180deg.
 
 
 
+Step 56
+Next, set the color-stop for red to 0%, 
+the color-stop for green to 50%, 
+and the color-stop for blue to 100%.
+
+
+
+
+
+
+
 
 
 
